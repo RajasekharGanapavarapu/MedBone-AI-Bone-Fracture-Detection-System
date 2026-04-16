@@ -6,7 +6,7 @@ BoneNet is a deep learning-based system for automatic bone fracture detection an
 ---
 ## DATASET
 (https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data?resource=download)
-download the data set fromm here and load it to the model.
+download the data set from here and load it to the model.
 ---
 
 ## 🚀 Features
