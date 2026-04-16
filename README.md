@@ -4,6 +4,10 @@
 BoneNet is a deep learning-based system for automatic bone fracture detection and classification from X-ray images. It leverages multiple architectures including MobileNet, Wide ResNet, and a custom Convolutional Neural Network (CNN) to compare performance in terms of accuracy and efficiency, aiming to assist in fast and reliable medical diagnosis.
 
 ---
+## DATASET
+(https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data?resource=download)
+download the data set fromm here and load it to the model.
+---
 
 ## 🚀 Features
 - Binary classification: Fractured vs Non-fractured
